@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="playicon"/>
+	<classpathentry kind="src" path="emotionicon"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/TEOMC/Documents/숙제/Java/SongRecommander/needs/DJNativeSwing-SWT-1-0-2 (1)/DJNativeSwing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TEOMC/Documents/숙제/Java/SongRecommander/needs/DJNativeSwing-SWT-1-0-2 (1)/DJNativeSwing-SWT.jar"/>
+	<classpathentry kind="lib" path="mariadb-java-client-2.1.2.jar"/>
+	<classpathentry kind="lib" path="jl1.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
